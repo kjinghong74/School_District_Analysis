@@ -6,7 +6,7 @@
 ## Results
   - How is the district summary affected? 
     
-    By comparing the data summary of the original analysis and the data taking away Thomas High School 9th grader scores, there is no change. 
+    By comparing the data summary of the original analysis and the data taking away Thomas High School 9th grader scores, it only bring down Average Math Score by 0.1%, but didn't affect Average Reading Score and percentage passing of math and/or reading. 
     
     Figure 1: district_summary_original data
     
@@ -14,7 +14,7 @@
 
     Figure 2: district_aummary_Thomas High School 9th grader scores removed
     
-    ![distric_summary_challenge](https://user-images.githubusercontent.com/90361056/137825764-848606fa-bf7b-4706-b6e8-9151d4f646d3.PNG)
+    ![distric_summary_challenge](https://user-images.githubusercontent.com/90361056/137830333-124e910f-59cf-4d92-98ab-ddb6bbd12211.PNG)
 
 
 - How is the school summary affected?
