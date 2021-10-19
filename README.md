@@ -5,6 +5,7 @@
 
 ## Results
   - How is the district summary affected? 
+    
     By comparing the data summary of the original analysis and the data taking away Thomas High School 9th grader scores, there is no change. 
     
     Figure 1: district_summary_original data
@@ -17,6 +18,7 @@
 
 
 - How is the school summary affected?
+    
     Removing homas High School 9th grader scores has very little influence on the average scores and score passing percentage, the difference is < 0.5%
     
     Figure 3: school_summary_original data
@@ -28,21 +30,18 @@
     ![school_summary_challenge](https://user-images.githubusercontent.com/90361056/137826457-cd028820-be3d-40e5-a381-5e8e2ca7e3d8.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+    
     From the results above, we can see replacing 9th graders' math and reading scores doesn't significant affect Thomas High School’s performance relative to the other schools.
     
 - How does replacing the ninth-grade scores affect the following:
-  * Math and reading scores by grade
-    Replacing homas High School 9th grader scores with NaN doesn't affect other grade's performance on math and reading scores
+  * Math and reading scores by grade: replacing Thomas High School 9th grader scores with NaN doesn't affect other grade's performance on math and reading scores
   
-  * Scores by school spending
-  
-    Figure 5: school_spending_original data
+  * Scores by school spending: removing Thomas High School 9th grader scores doesn't affect the scores by school_spending  bins
+
+  * Scores by school size: removing Thomas High School 9th grader scores doesn't affect the scores by school size
+
+  * Scores by school type: removing Thomas High School 9th grader scores doesn't affect the scores by school type
     
-    ![school_spending_original](https://user-images.githubusercontent.com/90361056/137828335-8ca0c4c7-efc9-4e04-b75a-f940df408a57.PNG)
+## Summary
 
-    Figure 6: school_spending_Thomas High School 9th grader scores removed
-
-    ![school_spending_challenge](https://user-images.githubusercontent.com/90361056/137828472-1430b8c9-14ba-4e70-8179-c072479fc9cd.PNG)
-
-  * Scores by school size
-  * Scores by school type
+  Overall, removing Thomas High School 9th grader scores has very little influences on math and reading scores, and the percentage of passing on district and shcool summary data. It did not affect the math and reading scores by grade, by school spending, by school size and by school type. 
