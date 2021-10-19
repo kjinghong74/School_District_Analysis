@@ -7,16 +7,19 @@
   - How is the district summary affected? 
     By comparing the data summary of the original analysis and the data taking away Thomas High School 9th grader scores, there is no change. 
     
-    Figure 1: district_aummary_originla data
+    Figure 1: district_summary_original data
     ![distric_summary_original](https://user-images.githubusercontent.com/90361056/137825734-0c48417b-01a5-4a78-b845-047dde3796fd.PNG)
 
     Figure 2: district_aummary_Thomas High School 9th grader scores removed
     ![distric_summary_challenge](https://user-images.githubusercontent.com/90361056/137825764-848606fa-bf7b-4706-b6e8-9151d4f646d3.PNG)
 
 
+- How is the school summary affected?
+    Removing homas High School 9th grader scores has very little influence on the average scores and score passing percentage, the difference is < 0.5%
     
-    
+    Figure 3: school_summary_original data
     ![school_summary_original](https://user-images.githubusercontent.com/90361056/137825569-1d001468-bbb9-41f6-b149-f46eb58e18af.PNG)
 
+    Figure 4: school_summary_Thomas High School 9th grader scores removed
+    ![school_summary_challenge](https://user-images.githubusercontent.com/90361056/137826457-cd028820-be3d-40e5-a381-5e8e2ca7e3d8.PNG)
 
-    ![school_summary_challenge](https://user-images.githubusercontent.com/90361056/137825593-d671d21b-afd3-4f9e-9415-4bafab0c8901.PNG)
