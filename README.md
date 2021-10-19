@@ -32,6 +32,24 @@
     
 - How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+  
+      Figure 5: grade_math_original data
+    ![grade_math_summary_original](https://user-images.githubusercontent.com/90361056/137827782-4c46f74e-cfd4-45d6-b707-b132061e0b63.PNG)
+    
+      Figure 6: grade_math_Thomas High School 9th grader scores removed
+    
+    ![grade_math_summary_challenge](https://user-images.githubusercontent.com/90361056/137827807-82f09392-a026-40f1-99ee-652c8623456c.PNG)
+    
+     Figure 7: grade_reading_original data
+     
+     ![grade_reading_summary_original](https://user-images.githubusercontent.com/90361056/137827937-5a71caa5-76ac-4b87-ae24-6b7fc1594477.PNG)
+
+     Figure 8: grade_reading_Thomas High School 9th grader scores removed
+
+     ![grade_reading_summary_challenge](https://user-images.githubusercontent.com/90361056/137828004-9ab15189-4c3d-4223-aecc-a52e059a55a8.PNG)
+
+    
+
   * Scores by school spending
   * Scores by school size
   * Scores by school type
