@@ -19,7 +19,7 @@
 
 - How is the school summary affected?
     
-    Removing homas High School 9th grader scores has very little influence on the average scores and score passing percentage, the difference is < 0.5%
+    Removing Thomas High School 9th grader scores has very little influence on the average scores and score passing percentage, the difference is < 0.5%
     
     Figure 3: school_summary_original data
     
