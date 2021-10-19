@@ -44,4 +44,4 @@
     
 ## Summary
 
-  Overall, removing Thomas High School 9th grader scores has very little influences on math and reading scores, and the percentage of passing on district and shcool summary data. It did not affect the math and reading scores by grade, by school spending, by school size and by school type. 
+  Overall, removing Thomas High School 9th grader scores has very little influences on math and reading scores, and the percentage of passing on district and school summary data. It did not affect the math and reading scores by grade, by school spending, by school size and by school type. 
